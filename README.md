@@ -26,15 +26,13 @@
 
 ## 📱 تصاویر محیط برنامه
 
-*(برای مشاهده تصاویر در اندازه کامل، روی آن‌ها کلیک کنید)*
-
-| صفحه اصلی و تسک‌ها | تقویم و یادآوری‌ها | تعامل با کاراکتر |
+| صفحه اصلی و تسک‌ها | تقویم و یادآوری‌ها | روتین‌ها (عادت‌ها) |
 |:---:|:---:|:---:|
-| ![صفحه اصلی](https://via.placeholder.com/250x500?text=Main+Dashboard) | ![تقویم](https://via.placeholder.com/250x500?text=Calendar) | ![تعامل](https://via.placeholder.com/250x500?text=Character+Interaction) |
+| <img src="screenshots/home.jpg" width="250" alt="صفحه اصلی" /> | <img src="screenshots/calendar.jpg" width="250" alt="تقویم" /> | <img src="screenshots/habits.jpg" width="250" alt="روتین‌ها" /> |
 
-| مدیریت مالی | صفحه بازی | منوی تنظیمات |
-|:---:|:---:|:---:|
-| ![مالی](https://via.placeholder.com/250x500?text=Finance) | ![بازی](https://via.placeholder.com/250x500?text=Games) | ![تنظیمات](https://via.placeholder.com/250x500?text=Settings) |
+| مناسبت‌ها و رویدادها | بنر اصلی برنامه |
+|:---:|:---:|
+| <img src="screenshots/event.jpg" width="250" alt="مناسبت‌ها" /> | <img src="assets/app-banner.jpg" width="500" alt="بنر هدف جو" /> |
 
 ## 🚀 دانلود
 
